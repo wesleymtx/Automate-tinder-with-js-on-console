@@ -1,4 +1,5 @@
 # Automate-tinder-with-js-on-console
+<pre>
 Automate tinder with js on console
 
 const automate = ()=>{
@@ -9,3 +10,4 @@ const automate = ()=>{
     deslike = document.querySelector('[aria-label=Não]').click()
 }
 setInterval(automate,5000)
+</pre>
