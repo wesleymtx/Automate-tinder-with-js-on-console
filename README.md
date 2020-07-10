@@ -12,4 +12,4 @@ const automate = ()=>{
 setInterval(automate,5000)
 </pre>
 
-<h3>Video tutorial:</h3> https://www.youtube.com/watch?v=VyQ9DTYtVvo
+<h3>Video tutorial:</h3> https://www.youtube.com/watch?v=-sZzSCSog-Y
